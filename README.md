@@ -1,14 +1,32 @@
-### Hi there 👋
+### Hi, and thank you for visit my github 👋
 
-**Kazuryto84/Kazuryto84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔎 Are you looking for a full stack developer who has great interest in learning new technologies?
 
-Here are some ideas to get you started:
+It is exactly what I am looking for at the moment and what I want you to know about my work.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+With me on your team I will be able to develop initially.
+
+✔ ReactJS
+✔ Express
+✔ NodeJS
+✔ PostgreSQL
+✔ Html
+✔ Postman
+
+My interests 😀:
+
+Develop experience and new knowledge in the IT area since it covers different aspects of technology
+
+My background 💼:
+
+As an Industrial Engineer, I acquired the knowledge and discipline to prepare for continuous changes and also develop new skills for the constant world of work, which gives me great skills for commitment and compliance with objectives when they must be achieved within the established times. Likewise, during this experience I have developed soft skills such as empathy and understanding the needs of other people, communication skills and the development of English as a second language.
+
+My main achievements 🤩:
+
+I have experience in 3 large projects, 1 individual and 2 in a work team, which has helped me understand the importance of knowing how to communicate and delegate functions to the team.
+
+If you are looking for a developer with the intention of creating a career in a company, I am someone who has every disposition to be part of that company.
+
+📧 email: hurtado.diegop@gmail.com
+
+📝 LinkedIn: https://www.linkedin.com/in/diegohurtado-sales-saas/
