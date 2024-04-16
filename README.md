@@ -23,10 +23,12 @@ As an Industrial Engineer, I acquired the knowledge and discipline to prepare fo
 
 My main achievements 🤩:
 
-I have experience in 3 large projects, 1 individual and 2 in a work team, which has helped me understand the importance of knowing how to communicate and delegate functions to the team.
+I have experience in 3 large projects, 1 individual and 2 in a work team, which has helped me understand the importance of knowing how to communicate and delegate functions to the team and I'm updating my portfolio with projects to continue acquiring more knowledge..
 
 If you are looking for a developer with the intention of creating a career in a company, I am someone who has every disposition to be part of that company.
 
 📧 email: hurtado.diegop@gmail.com
 
 📝 LinkedIn: https://www.linkedin.com/in/diegohurtado-sales-saas/
+
+🌐 https://portafolio-diego-h.vercel.app/
